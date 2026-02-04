@@ -1,5 +1,6 @@
 # SQL-Data-Engineering-Chicago-Schools Analysis
 DATASET_DATABASE - USING SQL & PYTHON
+
 OBJECTIVE(S)
 - Understanding the dataset and data type.
 - Store the dataset in SQLite database 
